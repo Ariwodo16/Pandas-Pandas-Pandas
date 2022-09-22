@@ -1,20 +1,5 @@
-# Unit 4 Homework: Pandas, Pandas, Pandas
-In this assignment, you’ll create and manipulate Pandas DataFrames to analyze school and standardized test data.
-
-
-## Before You Begin
-
-1. Create a new repository for this project called `pandas-challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local Git repository, create a folder for this homework assignment and name the folder `PyCitySchools`.
-
-4. Add your Jupyter notebook to this folder. This will be the main script to run for analysis.
-
-5. Push these changes to GitHub or GitLab.
-
-
+# Pandas, Pandas, Pandas
+Create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
 ## Background
 
@@ -25,8 +10,6 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 ## Instructions
 
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
-
-**Hint:** Check out a [sample solution](PyCitySchools/PyCitySchools_starter.ipynb) to review the desired format for this assignment.
 
 ### District Summary
 
@@ -111,13 +94,6 @@ Create a table that breaks down school performance based on school size (small, 
 ### Scores by School Type
 
 Create a table that breaks down school performance based on type of school (district or charter).
-
-### Submission
-On [Bootcamp Spot](https://bootcampspot-v2.com), submit a link to the `pandas-challenge` repo that you created for this assignment. Be sure to include a `README.md` file in addition to the Jupyter Notebook that contains your report.
-
-## Rubric
-
-[Unit 4 Homework Rubric](https://docs.google.com/document/d/1VwP0gfKN-ZGZvIhuaKmx00wCcPOMC5qofXXFcUGe90E/edit?usp=sharing)
 
 - - -
 
